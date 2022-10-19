@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wolfwarrior666
-- 👀 I’m interested in Programming,ServerAdministration
+- 👀 I’m interested in Programming,Server Administration, ItSec...
 - 🌱 I’m currently learning ComputerScience@TechnischeHochschuleUlm
 
 <!---
